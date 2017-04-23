@@ -7,3 +7,6 @@
 # how to contribute..
 
 # add website details
+
+# licence MIT
+
