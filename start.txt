@@ -9,3 +9,5 @@ This copyright added in add-copyright branch
 This is something added in master branch..
 
 Hello world from myfeature branch...
+
+this is some text
