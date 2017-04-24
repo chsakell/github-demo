@@ -13,3 +13,5 @@ Hello world from myfeature branch...
 this is some text
 
 this is a stash example..
+
+this is from new branch
